@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankitagrahari
-- 👀 I’m interested in browsing code, writing code and then sleeping on the table :). Also sometimes clicking photos.
+- 👀 I’m interested in browsing/writing code and then sleeping on the table :). Also sometimes clicking photos.
 - 🌱 I’m currently learning Kubernetes 
 - 💞️ I’m looking to collaborate on java development projects
 - 📫 reach me @gmail ankitagrahari.rkgit@gmail.com
