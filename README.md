@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Custom Java Class : Peculiar Cases](https://www.dynamicallyblunttech.com//post/custom-java-class-peculiar-cases)
-- [Log4j Vulnerability - Saga Continues](https://www.dynamicallyblunttech.com//post/log4j-vulnerability-saga-continues)
-- [Log4j Vulnerability - Continued](https://www.dynamicallyblunttech.com//post/log4j-vulnerability-continued)
-- [Log4JShell Vulnerability](https://www.dynamicallyblunttech.com//post/log4jshell-vulnerability)
-- [Fork-Join Framework in Java](https://www.dynamicallyblunttech.com//post/fork-join-framework-in-java)
+- [Transfer Files with Executor Service](https://www.dynamicallyblunttech.com/post/transfer-files-with-executor-service)
+- [Custom Java Class : Peculiar Cases](https://www.dynamicallyblunttech.com/post/custom-java-class-peculiar-cases)
+- [Log4j Vulnerability - Saga Continues](https://www.dynamicallyblunttech.com/post/log4j-vulnerability-saga-continues)
+- [Log4j Vulnerability - Continued](https://www.dynamicallyblunttech.com/post/log4j-vulnerability-continued)
+- [Log4JShell Vulnerability](https://www.dynamicallyblunttech.com/post/log4jshell-vulnerability)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
