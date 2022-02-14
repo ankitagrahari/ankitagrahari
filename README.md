@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Custom Iterators in Java](https://www.dynamicallyblunttech.com/post/custom-iterators-in-java)
+- [Multi Release Functionality](https://www.dynamicallyblunttech.com/post/multi-release-functionality)
 - [Web Socket Client - Receiving Stream of Messages](https://www.dynamicallyblunttech.com/post/web-socket-client-receiving-stream-of-messages)
 - [Reading CSV file in Python with Encoding](https://www.dynamicallyblunttech.com/post/reading-csv-file-in-python-with-encoding)
 - [Transfer Files with Executor Service](https://www.dynamicallyblunttech.com/post/transfer-files-with-executor-service)
-- [Custom Java Class : Peculiar Cases](https://www.dynamicallyblunttech.com/post/custom-java-class-peculiar-cases)
-- [Log4j Vulnerability - Saga Continues](https://www.dynamicallyblunttech.com/post/log4j-vulnerability-saga-continues)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
