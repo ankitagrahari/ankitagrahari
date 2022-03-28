@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Day to Day Lambda &amp; Functional Programming in Java 8](https://www.dynamicallyblunttech.com/post/day-to-day-lambda-functional-programming-java-8)
 - [Custom Iterators in Java](https://www.dynamicallyblunttech.com/post/custom-iterators-in-java)
 - [Multi Release Functionality](https://www.dynamicallyblunttech.com/post/multi-release-functionality)
 - [Web Socket Client - Receiving Stream of Messages](https://www.dynamicallyblunttech.com/post/web-socket-client-receiving-stream-of-messages)
 - [Reading CSV file in Python with Encoding](https://www.dynamicallyblunttech.com/post/reading-csv-file-in-python-with-encoding)
-- [Transfer Files with Executor Service](https://www.dynamicallyblunttech.com/post/transfer-files-with-executor-service)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
