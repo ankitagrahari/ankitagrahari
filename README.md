@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AES Algorithm with GCM Mode in Java](https://www.dynamicallyblunttech.com/post/aes-algorithm-with-gcm-mode-in-java)
 - [Spring4Shell - Zero Day Vulnerability in Spring Framework](https://www.dynamicallyblunttech.com/post/spring4shell-zero-day-vulnerability-in-spring-framework)
 - [Day to Day Lambda &amp; Functional Programming in Java 8](https://www.dynamicallyblunttech.com/post/day-to-day-lambda-functional-programming-java-8)
 - [Custom Iterators in Java](https://www.dynamicallyblunttech.com/post/custom-iterators-in-java)
 - [Multi Release Functionality](https://www.dynamicallyblunttech.com/post/multi-release-functionality)
-- [Web Socket Client - Receiving Stream of Messages](https://www.dynamicallyblunttech.com/post/web-socket-client-receiving-stream-of-messages)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
