@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Scheduling any REST API&#39;s](https://www.dynamicallyblunttech.com/post/dynamic-scheduling-any-rest-api-s)
 - [Spring Boot Application External Configurations](https://www.dynamicallyblunttech.com/post/spring-boot-application-external-configurations)
 - [Junit5 with Mockito Framework](https://www.dynamicallyblunttech.com/post/junit5-with-mockito-framework)
 - [AES Algorithm with GCM Mode in Java](https://www.dynamicallyblunttech.com/post/aes-algorithm-with-gcm-mode-in-java)
 - [Spring4Shell - Zero Day Vulnerability in Spring Framework](https://www.dynamicallyblunttech.com/post/spring4shell-zero-day-vulnerability-in-spring-framework)
-- [Day to Day Lambda &amp; Functional Programming in Java 8](https://www.dynamicallyblunttech.com/post/day-to-day-lambda-functional-programming-java-8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
