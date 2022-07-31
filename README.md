@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Agrahari</h1>
 <h3 align="center">A passionate backend developer from India. Most recently I am working as Senior Software Designer and assisted in the successful completion of multiple projects including Java, Python, Spring, Spring boot, REST, Microservices, Hibernate, MySQL, Maven & Git.</h3>
 
-- 🔭 I’m currently working on [TR Stocks - A Spring Webflux Project](https://github.com/ankitagrahari/trStocks)
+- 🔭 I’m currently working on [Spring Scheduler](https://github.com/ankitagrahari/Scheduler)
 
 - 🌱 I’m currently learning **Microservices, Kubernetes, & Asynchronous Programming**
 
