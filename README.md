@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Externalize Spring Boot Configuration](https://www.dynamicallyblunttech.com/post/externalize-spring-boot-configuration)
 - [Reactive Programming in Java](https://www.dynamicallyblunttech.com/post/reactive-programming-in-java)
 - [Dynamic Scheduling any REST API&#39;s](https://www.dynamicallyblunttech.com/post/dynamic-scheduling-any-rest-api-s)
 - [Spring Boot Application External Configurations](https://www.dynamicallyblunttech.com/post/spring-boot-application-external-configurations)
 - [Junit5 with Mockito Framework](https://www.dynamicallyblunttech.com/post/junit5-with-mockito-framework)
-- [AES Algorithm with GCM Mode in Java](https://www.dynamicallyblunttech.com/post/aes-algorithm-with-gcm-mode-in-java)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
