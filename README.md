@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Agrahari</h1>
-<h3 align="center">A passionate backend developer from India. Most recently I am working as Senior Software Designer and assisted in the successful completion of multiple projects including Java, Python, Spring, Spring boot, REST, Microservices, Apache Kafka, Hibernate, MySQL, Maven & Git.</h3>
+<h3 align="center">A passionate backend developer from India. Most recently I am working as Lead Software Engineer and assisted in the successful completion of multiple projects using Java, Python, Spring, Spring boot, REST, Microservices, Apache Kafka, Hibernate, MySQL, Maven & Git.</h3>
 
 - 🔭 I’m currently working on [Spring Scheduler](https://github.com/ankitagrahari/Scheduler)
 
