@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker Desktop Model Runner](https://www.dynamicallyblunttech.com/post/docker-desktop-model-runner)
+- [Spring AI with Ollama](https://www.dynamicallyblunttech.com/post/spring-ai-with-ollama)
 - [Aspect Programming in Spring - Logging](https://www.dynamicallyblunttech.com/post/aspect-programming-in-spring-logging)
 - [Externalize Spring Boot Configuration](https://www.dynamicallyblunttech.com/post/externalize-spring-boot-configuration)
 - [Reactive Programming in Java](https://www.dynamicallyblunttech.com/post/reactive-programming-in-java)
-- [Dynamic Scheduling any REST API&#39;s](https://www.dynamicallyblunttech.com/post/dynamic-scheduling-any-rest-api-s)
-- [Spring Boot Application External Configurations](https://www.dynamicallyblunttech.com/post/spring-boot-application-external-configurations)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
