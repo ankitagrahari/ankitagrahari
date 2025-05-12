@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Chatbot using Spring AI and OpenAI](https://www.dynamicallyblunttech.com/post/chatbot-using-spring-ai-and-openai)
+- [Reactive Programming in Java with Spring &lpar;AI Generated&rpar;](https://www.dynamicallyblunttech.com/post/reactive-programming-in-java-with-spring-ai-generated)
 - [Docker Desktop Model Runner](https://www.dynamicallyblunttech.com/post/docker-desktop-model-runner)
 - [Spring AI with Ollama](https://www.dynamicallyblunttech.com/post/spring-ai-with-ollama)
 - [Aspect Programming in Spring - Logging](https://www.dynamicallyblunttech.com/post/aspect-programming-in-spring-logging)
-- [Externalize Spring Boot Configuration](https://www.dynamicallyblunttech.com/post/externalize-spring-boot-configuration)
-- [Reactive Programming in Java](https://www.dynamicallyblunttech.com/post/reactive-programming-in-java)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
