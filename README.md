@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Smart-Devops-Assistant](https://github.com/ankitagrahari/smart-devops-assistant-suite)
 
-- 🌱 I’m currently learning **Microservices, Kubernetes, & Asynchronous Programming**
+- 🌱 I’m currently learning **Spring AI, Microservices, Kubernetes, & Asynchronous Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitagrahari](https://github.com/ankitagrahari)
 
 - 📝 I regularly write articles on [https://www.dynamicallyblunttech.com/](https://www.dynamicallyblunttech.com/)
 
-- 💬 Ask me about **Java, Spring Boot, Rest, Microservices, Maven, Jenkins**
+- 💬 Ask me about **Java, Spring Boot, Rest, Microservices, Spring AI, Maven, Jenkins**
 
 - 📄 Know about my experiences [https://www.dynamicallyblunttech.com/creator](https://www.dynamicallyblunttech.com/creator)
 
-- ⚡ Fun fact **I like reading books, travelling, cycling, and eating. I love to capture moments and boost on insta @dynamicallybluntshots**
+- ⚡ Fun fact **I like reading books(currently on The Brothers Karamazov), travelling, cycling, and eating. I love to capture moments and boost on insta @dynamicallybluntshots**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
