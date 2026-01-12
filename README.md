@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI Tutor with Spring AI, Ollama, and Vaadin](https://www.dynamicallyblunttech.com/post/building-an-ai-tutor-with-spring-ai-ollama-and-vaadin)
 - [Morphous AI: Building Multi-Modal AI Workflows with Spring Boot and Vaadin](https://www.dynamicallyblunttech.com/post/morphous-ai-building-multi-modal-ai-workflows-with-spring-boot-and-vaadin)
 - [Building the Foundation: APIs, Prompts, and First Runs](https://www.dynamicallyblunttech.com/post/building-the-foundation-apis-prompts-and-first-runs)
 - [Meet Smart Devops Assistant: Vision, Stack and Journey so far](https://www.dynamicallyblunttech.com/post/meet-smart-devops-assistant-vision-stack-and-journey-so-far)
 - [Chatbot using Spring AI and OpenAI](https://www.dynamicallyblunttech.com/post/chatbot-using-spring-ai-and-openai)
-- [Reactive Programming in Java with Spring &lpar;AI Generated&rpar;](https://www.dynamicallyblunttech.com/post/reactive-programming-in-java-with-spring-ai-generated)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
