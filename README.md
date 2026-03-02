@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Localhost to Kubernetes: Deploying StreamMetrics at Scale](https://www.dynamicallyblunttech.com/post/from-localhost-to-kubernetes-deploying-streammetrics-at-scale)
 - [Real-Time Aggregations with Kafka Streams at 10K Events/Sec](https://www.dynamicallyblunttech.com/post/real-time-aggregations-with-kafka-streams-at-10k-events-sec)
 - [Building Production-Grade Apache Kafka Consumer Patterns](https://www.dynamicallyblunttech.com/post/building-production-grade-kafka-consumer-patterns)
 - [Building a Production Kafka Producer](https://www.dynamicallyblunttech.com/post/building-a-production-kafka-producer)
 - [Building an AI Tutor with Spring AI, Ollama, and Vaadin](https://www.dynamicallyblunttech.com/post/building-an-ai-tutor-with-spring-ai-ollama-and-vaadin)
-- [Morphous AI: Building Multi-Modal AI Workflows with Spring Boot and Vaadin](https://www.dynamicallyblunttech.com/post/morphous-ai-building-multi-modal-ai-workflows-with-spring-boot-and-vaadin)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
