@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building DevOps Intelligence using MCP Server with Spring AI: Tools, Challenges &amp;#38; Solutions](https://www.dynamicallyblunttech.com/post/building-devops-intelligence-using-mcp-server-with-spring-ai-tools-challenges-solutions)
 - [Production Monitoring: You Can&#39;t Fix What You Can&#39;t See](https://www.dynamicallyblunttech.com/post/production-monitoring-you-can-t-fix-what-you-can-t-see)
 - [From Localhost to Kubernetes: Deploying StreamMetrics at Scale](https://www.dynamicallyblunttech.com/post/from-localhost-to-kubernetes-deploying-streammetrics-at-scale)
 - [Real-Time Aggregations with Kafka Streams at 10K Events/Sec](https://www.dynamicallyblunttech.com/post/real-time-aggregations-with-kafka-streams-at-10k-events-sec)
 - [Building Production-Grade Apache Kafka Consumer Patterns](https://www.dynamicallyblunttech.com/post/building-production-grade-kafka-consumer-patterns)
-- [Building a Production Kafka Producer](https://www.dynamicallyblunttech.com/post/building-a-production-kafka-producer)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
