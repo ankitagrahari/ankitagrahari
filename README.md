@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [https://www.dynamicallyblunttech.com/](https://www.dynamicallyblunttech.com/)
 
-- 💬 Ask me about **Java, Spring Boot, Rest, Microservices, Spring AI, Maven, Jenkins**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Spring AI, Claude Code/ Github Copilot (Skills, Agents, SubAgents, Memory, RAG, Hooks) or Ollama**
 
 - 📄 Know about my experiences [https://www.dynamicallyblunttech.com/creator](https://www.dynamicallyblunttech.com/creator)
 
-- ⚡ Fun fact **I like reading books(currently on The Brothers Karamazov), travelling, cycling, and eating. I love to capture moments and boost on insta @dynamicallybluntshots**
+- ⚡ Fun fact **I like reading books(currently on The Brothers Karamazov), travelling, cycling, and eating. I also add some trendy tech tutorials/information on insta @backendbrilliance as well.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
