@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Agrahari</h1>
 <h3 align="center">A passionate backend developer from India. Most recently I am working as Lead Software Engineer and assisted in the successful completion of multiple projects using Java, RxJava, Spring, Spring boot, Spring AI, Microservices, Apache Kafka, Hibernate, MySQL, Maven & Git.</h3>
 
-- 🔭 I’m currently working on [Production RAG System](https://github.com/ankitagrahari/production-rag-system)
+- 🔭 I’m currently working on [CodeForgeAI](https://github.com/ankitagrahari/CodeForgeAI)
 
 - 🌱 I’m currently learning **Spring AI, Microservices, Kubernetes, & Asynchronous Programming**
 
