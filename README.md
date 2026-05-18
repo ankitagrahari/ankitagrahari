@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Guessing, Find Perfect Local LLM with OllamaAdvisor](https://www.dynamicallyblunttech.com/post/stop-guessing-find-perfect-local-llm-with-ollamaadvisor)
+- [Built a Webhook Inspector from Scratch and Shipped It — Here&#39;s Everything That Went Wrong](https://www.dynamicallyblunttech.com/post/built-a-webhook-inspector-from-scratch-and-shipped-it-here-s-everything-that-went-wrong)
 - [CodeForgeAI: Building a 5-Agent Multi-LLM Pipeline That Writes, Reviews, Tests, and Deploys Java Code — Entirely Locally](https://www.dynamicallyblunttech.com/post/codeforgeai-building-a-5-agent-multi-llm-pipeline-that-writes-reviews-tests-and-deploys-java-cod)
 - [Building DevOps Intelligence using MCP Server with Spring AI: Tools, Challenges &amp;#38; Solutions](https://www.dynamicallyblunttech.com/post/building-devops-intelligence-using-mcp-server-with-spring-ai-tools-challenges-solutions)
 - [Production Monitoring: You Can&#39;t Fix What You Can&#39;t See](https://www.dynamicallyblunttech.com/post/production-monitoring-you-can-t-fix-what-you-can-t-see)
-- [From Localhost to Kubernetes: Deploying StreamMetrics at Scale](https://www.dynamicallyblunttech.com/post/from-localhost-to-kubernetes-deploying-streammetrics-at-scale)
-- [Real-Time Aggregations with Kafka Streams at 10K Events/Sec](https://www.dynamicallyblunttech.com/post/real-time-aggregations-with-kafka-streams-at-10k-events-sec)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
