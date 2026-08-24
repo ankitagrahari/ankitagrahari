@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CCA-F Domain 5: Context Management and Reliability](https://www.dynamicallyblunttech.com/post/cca-f-domain-5-context-management-and-reliability)
+- [CCA-F Domain 4: Prompt Engineering and Structured Output](https://www.dynamicallyblunttech.com/post/cca-f-domain-4-prompt-engineering-and-structured-output)
+- [CCA-F Domain 3: Claude Code Configuration and Workflows - Key Concepts](https://www.dynamicallyblunttech.com/post/cca-f-domain-3-claude-code-configuration-and-workflows-key-concepts)
 - [CCA-F Domain 2: Tool Design and MCP Integration - Key Concepts](https://www.dynamicallyblunttech.com/post/cca-f-domain-2-tool-design-and-mcp-integration-key-concepts)
 - [CCA-F Domain1: Agentic Architecture &amp;#38; Orchestration - Key Concepts](https://www.dynamicallyblunttech.com/post/cca-f-domain1-agentic-architecture-orchestration-key-concepts)
-- [System Design with Agentic AI - 1](https://www.dynamicallyblunttech.com/post/system-design-with-agentic-ai-1)
-- [Stop Guessing, Find Perfect Local LLM with OllamaAdvisor](https://www.dynamicallyblunttech.com/post/stop-guessing-find-perfect-local-llm-with-ollamaadvisor)
-- [Built a Webhook Inspector from Scratch and Shipped It — Here&#39;s Everything That Went Wrong](https://www.dynamicallyblunttech.com/post/built-a-webhook-inspector-from-scratch-and-shipped-it-here-s-everything-that-went-wrong)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
