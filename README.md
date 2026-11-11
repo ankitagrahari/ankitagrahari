@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CCA-F Domain 5: Context Management and Reliability](https://www.dynamicallyblunttech.com/post/cca-f-domain-5-context-management-and-reliability)
-- [CCA-F Domain 4: Prompt Engineering and Structured Output](https://www.dynamicallyblunttech.com/post/cca-f-domain-4-prompt-engineering-and-structured-output)
-- [CCA-F Domain 3: Claude Code Configuration and Workflows - Key Concepts](https://www.dynamicallyblunttech.com/post/cca-f-domain-3-claude-code-configuration-and-workflows-key-concepts)
-- [CCA-F Domain 2: Tool Design and MCP Integration - Key Concepts](https://www.dynamicallyblunttech.com/post/cca-f-domain-2-tool-design-and-mcp-integration-key-concepts)
-- [CCA-F Domain1: Agentic Architecture &amp;#38; Orchestration - Key Concepts](https://www.dynamicallyblunttech.com/post/cca-f-domain1-agentic-architecture-orchestration-key-concepts)
+- [I Moved My Blog from Wix to GitHub Pages: From a Managed CMS to a Developer-Owned Platform](https://dynamicallyblunttech.com/posts/migration-from-wix-to-github-pages-and-hugo/)
+- [CCA-F Domain 5: Context Management and Reliability](https://dynamicallyblunttech.com/posts/cca-f-domain-5-context-management-and-reliability/)
+- [CCA-F Domain 4: Prompt Engineering and Structured Output](https://dynamicallyblunttech.com/posts/cca-f-domain-4-prompt-engineering-and-structured-output/)
+- [CCA-F Domain 3: Claude Code Configuration and Workflows - Key Concepts](https://dynamicallyblunttech.com/posts/cca-f-domain-3-claude-code-configuration-and-workflows-key-concepts/)
+- [CCA-F Domain 2: Tool Design and MCP Integration - Key Concepts](https://dynamicallyblunttech.com/posts/cca-f-domain-2-tool-design-and-mcp-integration-key-concepts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
