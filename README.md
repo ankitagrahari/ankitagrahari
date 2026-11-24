@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Happens After You Click Send? The Internals of an LLM Request](https://dynamicallyblunttech.com/posts/what-happens-after-you-click-send-llm-request-internals/)
 - [TurboQuant Explained: How Google Is Making AI Memory More Efficient](https://dynamicallyblunttech.com/posts/google-turboquant-explained/)
 - [I Moved My Blog from Wix to GitHub Pages: From a Managed CMS to a Developer-Owned Platform](https://dynamicallyblunttech.com/posts/migration-from-wix-to-github-pages-and-hugo/)
 - [CCA-F Domain 5: Context Management and Reliability](https://dynamicallyblunttech.com/posts/cca-f-domain-5-context-management-and-reliability/)
 - [CCA-F Domain 4: Prompt Engineering and Structured Output](https://dynamicallyblunttech.com/posts/cca-f-domain-4-prompt-engineering-and-structured-output/)
-- [CCA-F Domain 3: Claude Code Configuration and Workflows - Key Concepts](https://dynamicallyblunttech.com/posts/cca-f-domain-3-claude-code-configuration-and-workflows-key-concepts/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
